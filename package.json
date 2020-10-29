@@ -1,0 +1,24 @@
+{
+  "name": "git-websocket-updater",
+  "version": "1.0.0",
+  "description": "",
+  "main": "updater.js",
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "websocket": "^1.0.32"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ForumPlayer/git-websocket-updater.git"
+  },
+  "author": "ForumPlayer",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/ForumPlayer/git-websocket-updater/issues"
+  },
+  "homepage": "https://github.com/ForumPlayer/git-websocket-updater"
+}
